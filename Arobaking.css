@@ -1,0 +1,30 @@
+body{
+	background-color.lightblue;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1{
+	color:turquoise;
+	font-size: 48px;
+}
+
+
+p{
+	color:turquoise;
+	font-size: 38px;
+}
+
+
+li{
+	color:turquoise;
+	font-size: 36px;
+}
+
+ol{
+	color: lightblue;
+	font-size: 22px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
