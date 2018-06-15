@@ -1,0 +1,56 @@
+body{
+	background-color: whitewhite;
+}
+
+h1{
+	color:magenta;
+	font-size: 48px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h2{
+color:lavender;
+font-size: 34px;
+font-family: "Comic Sans MS", cursive, sans-serif;
+
+}
+
+p{
+	color:turquoise;
+	font-size: 38px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+li{
+	color:gold;
+	font-size: 22px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+ol{
+	color: gold;
+	font-size: 22px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.ctr{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h3{
+	color: lavender;
+	font-size: 30px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h4{
+	color: gold;
+	font-size: 30px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
+
+}
